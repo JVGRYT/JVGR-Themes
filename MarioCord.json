@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Jay VideoGames Reynolds#2024",
         "version": "1.0.0",
-        "name": "MarioCord"
+        "name": "MarioCord",
+        "updater": "https:\/\/raw.githubusercontent.com\/JVGRYT\/MarioCord\/main\/MarioCord.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/899990007056588821\/903144907974262814\/20211028_155440.png"
