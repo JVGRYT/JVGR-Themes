@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "Jay VideoGames Reynolds#2024",
+        "name": "MarioMakerCord",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/882849238160142397\/903226174153588766\/20211028_211752.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/882849238160142397\/903227351356280832\/super-mario-maker-extended.ttf"
+    },
+    "simple_colors": {
+        "background": -7641344,
+        "background_secondary": -11058944,
+        "accent": -16896,
+        "active_channel": 1056947712,
+        "mention_highlight": 1056947712,
+        "statusbar": -16896
+    },
+    "colors": {
+        "primary_dark_300": -16896
+    },
+    "drawable_tints": {}
+}
