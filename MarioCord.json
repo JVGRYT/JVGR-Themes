@@ -1,0 +1,28 @@
+{
+    "manifest": {
+        "author": "Jay VideoGames Reynolds#2024",
+        "version": "1.0.0",
+        "name": "MarioCord"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/899990007056588821\/903144907974262814\/20211028_155440.png"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/899990007056588821\/903152533332164628\/New_Super_Mario_Font_U.ttf"
+    },
+    "simple_colors": {
+        "accent": -57856,
+        "background": -8581376,
+        "background_secondary": -11138560,
+        "mention_highlight": 1073683968,
+        "active_channel": 1073683968,
+        "statusbar": -57856
+    },
+    "colors": {
+        "link": -57856,
+        "primary_dark_300": -57856,
+        "abc_tint_edittext": -1,
+        "button_color_selector": -6221056
+    },
+    "drawable_tints": {}
+}
