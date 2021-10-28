@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Jay VideoGames Reynolds#2024",
         "name": "MarioMakerCord",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/JVGRYT\/JVGR-Themes\/main\/MarioMakerCord.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/882849238160142397\/903226174153588766\/20211028_211752.jpg"
@@ -19,7 +20,8 @@
         "statusbar": -16896
     },
     "colors": {
-        "primary_dark_300": -16896
+        "primary_dark_300": -16896,
+        "link": -16896
     },
     "drawable_tints": {}
 }
